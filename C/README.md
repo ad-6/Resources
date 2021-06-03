@@ -20,6 +20,8 @@ Reference Tutorials
 <a href="https://overiq.com/c-programming-101/" target="_blank"> Tutorial </a>, <a href="https://aticleworld.com/c-tutorial/" target="_blank"> C Tutorial - Articleworld </a>, <a href="https://www.freecodecamp.org/news/pointers-in-c-are-not-as-difficult-as-you-think/" target="_blank"> Pointers in C Explained – They're Not as Difficult as You Think </a>
 
 ## Resources for Pointers
+
+
 Basic Pointer concepts in C Programming:
 
 What is a <a href="https://youtu.be/sY-s7O0FiYE" target="_blank"> Pointer ? </a>
@@ -36,7 +38,18 @@ How to use <a href="https://www.tutorialspoint.com/cprogramming/c_pointers.htm" 
 
 <a href="https://www.freecodecamp.org/news/pointers-in-c-are-not-as-difficult-as-you-think/" target="_blank"> Pointers in C Explained – They're Not as Difficult as You Think (freecodecamp.org) </a>
 
+## Structures:
+
+Understanding Structures - <a href="https://youtu.be/X3lJa6N323I" target="_blank"> Video </a>, <a href="https://www.programiz.com/c-programming/c-structures" target="_blank">Article</a>
+
+Using Structures - <a href="https://youtu.be/JBzwkBz2JOo" target="_blank"> Video </a>, <a href="https://www.programiz.com/c-programming/c-structures-pointers" target="_blank">Article</a>
+
+Structures with Arrays and Functions -  <a href="https://youtu.be/xKHaKpd5Nnw" target="_blank"> Video </a>, <a href="https://www.programiz.com/c-programming/c-structure-function" target="_blank">Article</a>
+
+<a href="https://github.com/cbourke/CSCE155-C-Lab11.git" target="_blank"> Example </a> using Structure
+
 ## GCC, Makefile, Unit testing:
+
 
 <a href="https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html" target="_blank"> GCC and Makefile </a>
 
