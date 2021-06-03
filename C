@@ -1,1 +1,18 @@
+# Resources for C
+Resources for programming topics:
 
+Examples used in the session: Here
+
+Operator Precedence - <a href="https://docs.microsoft.com/en-us/cpp/c-language/precedence-and-order-of-evaluation?view=msvc-160&viewFallbackFrom=vs-2019" target="_blank">Reference</a>
+Sequence Points - Article, Video, Sequence points - Embedded.com
+Short Circuit Evaluation - Video, Article
+Typedef - Link
+Preprocessors - Link, Special Pre-processors
+Program Memory Map - Link
+Inline Functions - Macro Vs Inline Function - EmbHack
+Recursion - Recursive Factorial (usfca.edu)
+Reference Tutorials
+
+https://overiq.com/c-programming-101/
+C Tutorial - Aticleworld
+Pointers in C Explained – They're Not as Difficult as You Think (freecodecamp.org)
