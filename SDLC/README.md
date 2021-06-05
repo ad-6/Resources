@@ -29,13 +29,15 @@ Understanding Model -<a href="https://melsatar.blog/2012/03/15/software-developm
     1) Have a good understanding of the different models, use, impact and comparison
     2) Explore Software Testing Life Cycle (STLC)
 
+
 Different Stages : Requirements
 
 <a href="https://pdfs.semanticscholar.org/4018/ea1263f10052e3197c4d2a866b62fde83167.pdf"  target="_blank"> IEEE Guide for Developing System Requirements Specifications </a>, <a href="https://www.math.uaa.alaska.edu/~afkjm/cs401/IEEE830.pdf" target="_blank"> Best Practices </a>
 
 <a href="https://reqexperts.com/wp-content/uploads/2015/07/writing_good_requirements.htm" target="_blank"> Writing Good Requirement </a> , <a href="https://www.lucidchart.com/blog/software-requirements-documentation" target="_blank">Software Requirement Document </a>
 
-Design
+
+Design:
 
 Unified Modelling Language (UML) - Structural | Behavioral
 
@@ -43,14 +45,17 @@ Unified Modelling Language (UML) - Structural | Behavioral
 
 Tools - Draw.io etc.
 
-Development
+
+Development:
 
 Strong foundation (C Programming/ C++ / Java/ etc..)
 Explore Quality Aspects
 
-Test Plan and Testing
+
+Test Plan and Testing:
 
 <a href="https://www.softwaretestinghelp.com/how-to-write-test-plan-document-software-testing-training-day3/" target="_blank">Link1 </a>,  <a href="https://www.guru99.com/what-everybody-ought-to-know-about-test-planing.html" target="_blank">Link2 </a>
+
 
 Others: <a href="https://www.youtube.com/watch?v=P06yeFsTHxA:-V-model" target="_blank"> Video </a>
 
