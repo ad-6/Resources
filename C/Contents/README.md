@@ -38,6 +38,10 @@ How to use <a href="https://www.tutorialspoint.com/cprogramming/c_pointers.htm" 
 
 <a href="https://www.freecodecamp.org/news/pointers-in-c-are-not-as-difficult-as-you-think/" target="_blank"> Pointers in C Explained – They're Not as Difficult as You Think (freecodecamp.org) </a>
 
+Function pointer in c - <a href="https://aticleworld.com/use-of-function-pointer-in-c/" target="_blank"> Article </a>, <a href="https://youtu.be/o854340s2zc" target="_blank">Video1 </a>, <a href="https://youtu.be/BRsv3ZXoHto" target="_blank">Video2 </a>
+
+Applications of Function pointers- <a href="https://aticleworld.com/c-function-pointer/" target="_blank">Article </a>, <a href="https://youtu.be/wQ-gWwKKeP4" target="_blank"> Video </a>
+
 ## Structures:
 
 Understanding Structures - <a href="https://youtu.be/X3lJa6N323I" target="_blank"> Video </a>, <a href="https://www.programiz.com/c-programming/c-structures" target="_blank">Article</a>
@@ -47,17 +51,6 @@ Using Structures - <a href="https://youtu.be/JBzwkBz2JOo" target="_blank"> Video
 Structures with Arrays and Functions -  <a href="https://youtu.be/xKHaKpd5Nnw" target="_blank"> Video </a>, <a href="https://www.programiz.com/c-programming/c-structure-function" target="_blank">Article</a>
 
 <a href="https://github.com/cbourke/CSCE155-C-Lab11.git" target="_blank"> Example </a> using Structure
-
-## GCC, Makefile, Unit testing:
-
-
-<a href="https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html" target="_blank"> GCC and Makefile </a>
-
-Video tutorial on makefile- <a href="https://youtu.be/_r7i5X0rXJk" target="_blank"> Video 1</a>, <a href="https://youtu.be/aw9wHbFTnAQ" target="_blank"> Video 2</a>
-
-Uni testing- what is <a href="https://www.guru99.com/unit-testing-guide.html" target="_blank"> Unit testing </a>
-
-<a href="https://www.throwtheswitch.org/unity" target="_blank"> Unity Throw Switch </a> as unit test framework for C
 
 
 
