@@ -23,7 +23,7 @@ Resources for Linux OS and Commands:
 
 <a href="https://linuxsurvival.com/" target="_blank">Linux Survival </a> , <a href="https://linuxsurvival.com/" target="_blank">Where learning Linux is easy </a>
 
-<a href="https://linuxjourney.com/" target="_blank">Home </a> , <a href="https://linuxjourney.com/" target="_blank">Linux Journey<?a>
+<a href="https://linuxjourney.com/" target="_blank">Home </a> , <a href="https://linuxjourney.com/" target="_blank">Linux Journey</a>
 
 
 ## How to Get Visual Studio Code GitHub Setup Going!
