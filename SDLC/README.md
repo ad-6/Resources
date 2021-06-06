@@ -11,6 +11,20 @@ SDLC Phases: <a href="https://www.innovativearchitects.com/KnowledgeCenter/basic
 
 Optional Resource: NASA System Engineering Handbook
 
+
+## Tools For Applying the SDLC Methods on Project
+
+
+For Updating readme's -ex - <a href="https://dillinger.io/" target="_blank"> 1 </a>, <a href="https://stackedit.io/app#" target="_blank"> 2</a>
+
+Design:
+
+Follow the instructions of 4 diagrams in Highlevel and 4 in Low level (Strucutureal and Behavioural)
+
+use the tools and inbuilt templates - <a href="https://app.diagrams.net/" target="_blank"> ex </a>
+
+
+
 ## Understanding V Model and Agile
 
 

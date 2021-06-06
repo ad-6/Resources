@@ -1,17 +1,3 @@
-## LINUX OS
-
-
-interactive learning of <a href="https://linuxsurvival.com/" target="_blank"> Linux </a>
-
-Interactive and step by step guide to learn <a href="https://linuxjourney.com/" target="_blank"> Linux </a>
-
-Detailed learning of Linux Commands with <a href="https://linux-training.be/index.php?nav=fundamentals" target="_blank"> Practice questions </a>
-
-Ways to <a href="https://www.networkworld.com/article/3489537/7-ways-to-remember-linux-commands.html" target="_blank" >remember </a> Linux Commands
-
-Online LINUX OS: <a href="https://www.katacoda.com/" target="_blank"> here </a>
-
-
 ## GCC, Makefile, Unit testing:
 
 
@@ -35,8 +21,6 @@ How to <a href="https://blog.regehr.org/archives/199" target="_blank"> Debug </a
 
 <a href="https://www.youtube.com/playlist?list=PL4IH6CVPpTZVkiEnCEOdGbYsFEdtKc5Bx" target="_blank"> Video tutorial </a> for: Programming topics, Error handling, Unit testing (a different unit test framework is used in the video),Debugging
 
-<a href="https://embetronicx.com/tutorials/unit_testing/unit-testing-in-c-code-coverage/" target="_blank"> Code coverage </a>
-
 
 
 ## Docmenting the code
@@ -59,5 +43,25 @@ for linux: <a href="https://stackoverflow.com/questions/2082064/how-to-install-d
 What is a <a href="https://www.howtogeek.com/348960/what-is-a-csv-file-and-how-do-i-open-it/#:~:text=A%20Comma%20Separated%20Values%20%28CSV%29%20file%20is%20a,called%20Character%20Separated%20Values%20or%20Comma%20Delimited%20files.\" target="_blank"> CSV file </a>
 
 <a href="https://aticleworld.com/file-handling-in-c/" target="_blank" > File Handling in C, In Just A Few Hours! - Aticleworld </a>
+
+
+## Systems and Software Testing
+
+
+Testing Software and Systems (<a href="https://en.wikipedia.org/wiki/Software_testing" target="_blank"> wiki </a>, <a href="https://www.w3schools.in/software-testing/overview/" target="_blank"> Link </a>, <a href="https://www.youtube.com/watch?v=TDynSmrzpXw&list=PLDC2A0C8D2EC934C7" target="_blank"> Video playlist </a> , <a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering" target="_blank"> Book </a> - Chapter4 Software Testing <a href="https://cs.fit.edu/~kgallagher/Schtick/Serious/SWEBOKv3.pdf" target="_blank"> [Alternative Link] </a>)
+
+Better understaning of <a href="https://en.wikipedia.org/wiki/Code_coverage" target="_blank" >Code Coverage </a> and <a href="https://www.perforce.com/blog/qac/what-cyclomatic-complexity" target="_blank"> Cylcometric Complexity </a>
+
+<a href="https://embetronicx.com/tutorials/unit_testing/unit-testing-in-c-code-coverage/" target="_blank"> Code coverage (another website) </a>
+
+<a href="https://youtu.be/3Lpjlzu6sDY" target="_blank"> Code coverage (Video) </a>
+
+<a href="https://www.guru99.com/test-case.html" target="_blank"> Write a sample test case - example </a>
+
+Tools available - Many are available <a href="https://www.guru99.com/testing-tools.html" target="_blank">example </a>
+
+<a href="https://www.youtube.com/watch?v=S2_AJP9Oeg0" target="_blank"> Overview of test plan </a>
+
+Other Resources: <a href="https://www.softwaretestingmaterial.com/stlc-software-testing-life-cycle/" target="_blank"> Link </a>, <a href="https://www.softwaretestinghelp.com/what-is-software-testing-all-about/" target="_blank">  Link2 </a>, <a href="https://www.guru99.com/software-testing-introduction-importance.html" target="_blank">  Link3 </a>
 
 
