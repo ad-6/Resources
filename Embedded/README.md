@@ -66,7 +66,27 @@ To explore: AVR architecture, GPIO port structure, pull up and Pull down configu
 
 For a successful product, a well defined embedded system <a href="https://en.wikipedia.org/wiki/New_product_development" target="_blank"> development process</a> is critical.
 
+Embedded Systems Development Lifecycle Process: <a href="https://www.watelectronics.com/embedded-systems-development-process/" target="_blank"> 1 </a> ,<a href="https://www.softwaretestpro.com/the-embedded-software-development-process/" target="_blank"> 2 </a>
 
+<a href="http://moodle.autolab.uni-pannon.hu/Mecha_tananyag/szoftverfejlesztesi_folyamatok_angol/ch10.html" target="_blank">Embedded system development</a>
+
+<a href="https://youtu.be/cZKBTCbkXoo" target="_blank">Embedded System Design Process (Video) </a>; <a href="https://youtu.be/gjp8eKdSAoc" target="_blank">Embedded System Design – Case Study - Part I (Video) </a>
+
+<a href="http://epgp.inflibnet.ac.in/epgpdata/uploads/epgp_content/S000007CS/P001072/M023185/ET/1505901163module33(1.pdf" target="_blank"> Embedded System Design Process </a>
+
+<a href="https://youtu.be/GjODNdzlvmk" target="_blank"> Embedded System Design methodologies </a>
+
+<a href="https://youtu.be/UReClONV0O8" target="_blank">Basic Requirements of an Embedded System </a>
+
+<a href="https://youtu.be/vd9ykB7fdmI" target="_blank">Embedded System Development Life Cycle </a>
+
+<a href="https://youtu.be/hB4NJs3euCI" target="_blank"> Embedded system-Design methodology and Design flow </a>
+
+<a href="https://youtu.be/VPDxNC_fYkc" target="_blank">Introduction to testing </a>
+
+<a href="https://youtu.be/1aixZGVYggs" target="_blank">Interaction Testing between Hardware and Software </a>
+
+<a href="https://youtu.be/y_7D50K8O6Y" target="_blank">Different Types of testing and Techniques White box Black box and gray box with Examples explained </a>
 
 
 ## Software 
