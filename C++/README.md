@@ -19,7 +19,7 @@ C++ programming in <a href="https://youtu.be/i1kubuz1loI" target="_blank"> Code 
 ## Programming concepts
 
 
-### Introduction
+## Introduction
 
 
 Introduction to C/C++<a href="https://www.learncpp.com/cpp-tutorial/introduction-to-cplusplus/" target="_blank"> Link </a>, <a href="https://youtu.be/3IynvwjrV-U" target="_blank"> Video </a>
@@ -35,7 +35,7 @@ Introduction to  <a href="https://www.learncpp.com/cpp-tutorial/introduction-to-
 Introduction to the <a href="https://www.learncpp.com/cpp-tutorial/introduction-to-the-compiler-linker-and-libraries/" target="_blank">compiler, linker, and libraries </a>
 
 
-### Language Basics:
+## Language Basics:
 
 
 Reference Variable: <a href="https://www.learncpp.com/cpp-tutorial/references/" target="_blank"> Link </a>, <a href="https://youtu.be/NGKt3Xwlobg" target="_blank"> Video </a>
@@ -51,7 +51,7 @@ Dynamic memory allocation with <a href="https://www.learncpp.com/cpp-tutorial/dy
 <a href="https://www.learncpp.com/cpp-tutorial/dynamically-allocating-arrays/" target="_blank">Dynamically allocating arrays </a>
 
 
-### Functions:
+## Functions:
 
 
 The stack and the heap | <a href="https://www.learncpp.com/cpp-tutorial/the-stack-and-the-heap/" target="_blank">Learn C++ </a>
@@ -77,7 +77,7 @@ Function overloading<a href="https://www.learncpp.com/cpp-tutorial/introduction-
 Inline functions<a href="https://www.learncpp.com/cpp-tutorial/inline-functions/" target="_blank">Link</a>, <a href="https://youtu.be/SFgBr6Jd7ok"  target="_blank"> Video </a>
 
 
-### Classes and Objects:
+## Classes and Objects:
 
 
 Classes and class members<a href="https://www.learncpp.com/cpp-tutorial/classes-and-class-members/" target="_blank"> Link</a>, <a href="https://youtu.be/6Q0Cff29YwU" target="_blank"> Video </a>
@@ -97,7 +97,7 @@ Const class objects and member functions <a href="https://www.learncpp.com/cpp-t
 <a href="https://www.learncpp.com/cpp-tutorial/class-code-and-header-files/" target="_blank">Class code and header files </a>
 
 
-### Constructors and Destructors:
+## Constructors and Destructors:
 
 
 Constructors <a href="https://www.learncpp.com/cpp-tutorial/constructors/" target="_blank"> Link </a>, <a href="https://youtu.be/qKQzpoPk4wk" target="_blank"> Video </a>
@@ -111,7 +111,7 @@ Constructors <a href="https://www.learncpp.com/cpp-tutorial/constructors/" targe
 Destructors: <a href="https://www.learncpp.com/cpp-tutorial/destructors/" target="_blank"> Link </a>, <a href="https://youtu.be/Fk8LrQ1H6a0" target="_blank"> Video </a>
 
 
-###  More about Classes:
+##  More about Classes:
 
 
 Static member<a href="https://www.learncpp.com/cpp-tutorial/static-member-variables/" target="_blank"> variables </a>, <a href="https://www.learncpp.com/cpp-tutorial/static-member-functions/" target="_blank"> functions </a>, <a href="https://youtu.be/u8jw0LsQFFg" target="_blank"> Video </a>
@@ -119,7 +119,7 @@ Static member<a href="https://www.learncpp.com/cpp-tutorial/static-member-variab
 Friend functions and classes<a href="https://www.learncpp.com/cpp-tutorial/friend-functions-and-classes/" target="_blank">Link</a>, <a href="https://youtu.be/mD5f3-30HEc" target="_blank"> Video </a>
 
 
-### Operator Overloading:
+## Operator Overloading:
 
 
 Introduction to Operator Overloading In C++ <a href="https://www.learncpp.com/cpp-tutorial/introduction-to-operator-overloading/" target="_blank"> Link </a>, <a href="https://youtu.be/DVMZPOt816E" target="_blank"> Video </a>
@@ -143,7 +143,7 @@ Overloading the arithmetic operators <a href="https://www.learncpp.com/cpp-tutor
 <a href="https://youtu.be/2972LRdyquk" target="_blank"> Stream Insertion | Stream Extraction Operator Overloading In C++ </a>
 
 
-### Inheritance:
+## Inheritance:
 
 
 Introduction to <a href="https://www.learncpp.com/cpp-tutorial/introduction-to-inheritance/" target="_blank">inheritance</a>
@@ -167,7 +167,7 @@ Multiple inheritance<a href="https://www.learncpp.com/cpp-tutorial/multiple-inhe
 <a href="https://www.learncpp.com/cpp-tutorial/inheritance-and-access-specifiers/" target="_blank">Inheritance and access specifiers </a>
 
 
-### Virtual Functions:
+## Virtual Functions:
 
 
 <a href="https://www.learncpp.com/cpp-tutorial/calling-inherited-functions-and-overriding-behavior/" target="_blank">Calling inherited functions and overriding behavior</a>
@@ -185,7 +185,7 @@ Multiple inheritance<a href="https://www.learncpp.com/cpp-tutorial/multiple-inhe
 <a href="https://youtu.be/mv5_l4kuVho" target="_blank">Polymorphism In C++ </a> | Static & Dynamic Binding | Lazy & Early Binding In C++
 
 
-### Templates:
+## Templates:
 
 
 Function templates:<a href="https://www.learncpp.com/cpp-tutorial/function-templates/" target="_blank"> Link</a>, <a href="https://youtu.be/vUI5GvWexsM" target="_blank">Video </a>
@@ -197,7 +197,7 @@ Function templates:<a href="https://www.learncpp.com/cpp-tutorial/function-templ
 <a href="https://www.learncpp.com/cpp-tutorial/template-non-type-parameters/" target="_blank"> Templates non-type parameters </a>
 
 
-### File Handling and Console I/O:
+## File Handling and Console I/O:
 
 
 <a href="https://www.learncpp.com/cpp-tutorial/input-and-output-io-streams/" target="_blank"> Input and output (I/O) streams</a>
@@ -211,7 +211,7 @@ Function templates:<a href="https://www.learncpp.com/cpp-tutorial/function-templ
 <a href="https://www.learncpp.com/cpp-tutorial/random-file-io/" target="_blank"> Random file I/O</a>
 
 
-### Namespace and Scoping:
+## Namespace and Scoping:
 
 
 <a href="https://www.learncpp.com/cpp-tutorial/scope-duration-and-linkage-summary/" target="_blank">Scope, duration, and linkage summary </a>
@@ -225,6 +225,6 @@ Function templates:<a href="https://www.learncpp.com/cpp-tutorial/function-templ
 <a href="https://www.learncpp.com/cpp-tutorial/unnamed-and-inline-namespaces/" target="_blank">Unnamed and inline namespaces</a>
 
 
-### Unit Testing - GoogleTest:
+## Unit Testing - GoogleTest:
 
 <a href="https://medium.com/swlh/google-test-installation-guide-for-c-in-windows-for-visual-studio-code-2b2e66352456#:~:text=Go%20to%20Google%20test%20downloaded,%2Dw64%2Dmingw32%5C8.1" target="_blank"> Installation </a>
